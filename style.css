@@ -1,0 +1,47 @@
+body{
+margin:0;
+padding: 0;
+background-color: whitesmoke;
+}
+
+
+.Edozzierbutton{
+   background-color:rgb(2, 2, 92);
+   border: none;
+   border-radius: 5px;
+   color: white;
+   padding: 10px;
+   
+}
+.Edozzierbutton:hover{
+   background-color: orange;
+    
+ }
+.REQUESTbutton{
+   background-color:white;
+   border: none;
+   border-radius: 5px;
+   color:rgb(2, 2, 92);
+   padding: 10px;
+   
+
+}
+.REQUESTbutton:hover{
+    background-color:skyblue;
+    
+    
+ 
+ }
+.EDOZZIERsection{
+    margin-top: 150px;
+}
+
+.EDOZZIERtxt{
+    background-color:#d0d8fc;
+    width:fit-content;
+    padding: 10px;
+}
+
+.SimpleSchooltxt{
+    color:rgb(2, 2, 92) ;
+}
