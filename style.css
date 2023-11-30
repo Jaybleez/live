@@ -1,7 +1,22 @@
 body{
 margin:0;
 padding: 0;
-background-color: whitesmoke;
+background-color: white;
+}
+
+.Edozziernavbutton{
+    background-color:rgb(2, 2, 92);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+    
+}
+
+.Navbarbackground{
+    background-color: whitesmoke;
+    margin-bottom: 50px;
+
 }
 
 
@@ -44,4 +59,14 @@ background-color: whitesmoke;
 
 .SimpleSchooltxt{
     color:rgb(2, 2, 92) ;
+}
+.EdozzierRome{
+    background-color: white;
+}
+
+
+.RomeEdozzier{
+    margin: 100px;
+    text-align: center;
+
 }
