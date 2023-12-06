@@ -1,7 +1,7 @@
 body{
 margin:0;
 padding: 0;
-background-color: white;
+background-color: whitesmoke;
 }
 
 .Edozziernavbutton{
@@ -43,10 +43,13 @@ background-color: white;
 }
 .REQUESTbutton:hover{
     background-color:skyblue;
-    
-    
- 
- }
+}
+
+.Technologysec:hover{
+    background-color: #112257;
+    color: white;
+
+}
 .EDOZZIERsection{
     margin-top: 150px;
 }
@@ -62,11 +65,11 @@ background-color: white;
 }
 .EdozzierRome{
     background-color: white;
+    padding: 100px;
 }
 
 
 .RomeEdozzier{
-    margin: 100px;
     text-align: center;
 
 }
@@ -74,4 +77,34 @@ background-color: white;
 .Learningsec{
     background-color: #112257;
     color: white;
+}
+.oursolutionsec{
+    text-decoration: none;
+}
+
+.ourSolutionsec{
+    padding: 70px;
+   
+}
+
+.solutiontxt{
+    color: #112257;
+    font-size: 50px;
+}
+.OursolutionBack{
+    background-color: #e5ebfb;
+}
+
+.Thesolution{
+    margin-top: 80px;
+    font-size: medium;
+}
+
+
+
+
+
+@media screen and (475px) {
+    
+    
 }
